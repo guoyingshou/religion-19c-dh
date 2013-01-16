@@ -16,7 +16,14 @@ class.
 
 After taking this course, you will be able to
 
--   craft a digital history project
+-   explain the main themes of American religious history in the 19th
+    century as they relate to many different denominations and
+    religions;
+-   interpret the primary sources of American religious history;
+-   conduct original research in nineteenth-century primary sources;
+-   work collaboratively using the tools and techniques of digital
+    humanities to create digital scholarship; and
+-   write serious effectively for an Internet audience.
 
 ## The intellectual work of the course
 
