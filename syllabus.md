@@ -65,35 +65,33 @@ done on the digital project. (You can write as many posts as you like.)
 Topics can includes the research you're doing, the skills you're 
 learning, the decisions you're making, the connections you're drawing to 
 the class readings, etc. You will also make at least two comments per 
-week on your colleagues posts.
+week on your colleagues' posts.
 
 ## Evaluation
 
-
+The assignments for this course will receive these relative weights
 
 ------------------------        --------
 assignment                      weight
 ------------------------        --------
-close-reading essay             15%
+digital research project            50%
 
-lens essay                      20%
+presentation of project             10%
 
-research essay essay            30%
+readings and discussions            25%
 
-pre-draft assignments           15% 
+book review                          5%
 
-portfolio                        5%
-
-participation                   15%
+blogging                            10%
 ------------------------        --------
 
-Much of the work {TODO} 
+For assignments which are collaborative, your grade will be determined 
+both by your individual contribution and by the overall quality of the 
+project.
 
 ## Texts
 
 Almost all of the readings will be available on the course website. You 
 will need to buy or otherwise obtain your choice of the texts below. 
-If you'd prefer to read another work, I'll entertain your ideas.
-
-{TODO} 
+If you'd prefer to read another work, I'll entertain your requests.
 
