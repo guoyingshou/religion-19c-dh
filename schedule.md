@@ -1,8 +1,6 @@
 % Course Calendar
 % Nineteenth-Century U.S. Religion: A Digital History Seminar
 
-
-
 # Bootstrapping
 
 Week 1, class 1
@@ -27,7 +25,8 @@ Week 2, class 4
 
 :   Spatial history
 
-:   {TODO} 
+:   Richard White, "What Is Spatial History?"; Jo Guldi, "What is the 
+    Spatial Turn?" and "The Spatial Turn in History"
 
 Week 3, class 5
 
@@ -100,50 +99,50 @@ Week 7, class 14
 
 Week 8, class 15
 
-:   Abolitionism and anti-abolitionism
-
-:   Angelina Grimké, *An Appeal to the Christian Women of the South*; 
-    Robert L. Dabney, *A Defense of Virginia*
-
-Week 8, class 16
-
-:   The Civil War
-
-:   {TODO}; Abraham Lincoln, "Second Inaugural Address"
-
-Week 9, class 17
-
-:   Mormonism
-
-:   Excerpts from *Book of Mormon*; *People v. Reynolds*
-
-Week 9, class 18
-
-:   Immigrant religion
-
-:   {TODO} 
-
-Week 10, class 19 *
-
 :   Slave religion
 
 :   Jarena Lee, *The Life and Religious Experience of Jarena Lee*; 
     Frederick Douglass, *Narrative of the Life of an American Slave*; 
     collected spirituals
 
-Week 10, class 20 *
+Week 8, class 16
 
-:   Metaphysical religion
+:   Abolitionism and anti-abolitionism
 
-:   Mary Baker Eddy, *Science and Health, with Key to the Scriptures*; 
-    Thomas Wentworth Higginson, "The Sympathy of Religions"
+:   Angelina Grimké, *An Appeal to the Christian Women of the South*; 
+    Robert L. Dabney, *A Defense of Virginia*
 
-Week 11, class 21 *
+Week 9, class 17
+
+:   The Civil War
+
+:   {TODO}; Abraham Lincoln, "Second Inaugural Address"
+
+Week 9, class 18
 
 :   American religion seen from Europe
 
 :   Philip Schaff, *America: A Sketch of the Political, Social, and 
     Religious Character of the United States of North America*
+
+Week 10, class 19 *
+
+:   Mormonism
+
+:   Excerpts from *Book of Mormon*; *People v. Reynolds*
+
+Week 10, class 20 *
+:   Immigrant religion
+
+:   {TODO} catholic and protestant
+
+
+Week 11, class 21 *
+:   Metaphysical religion
+
+:   Mary Baker Eddy, *Science and Health, with Key to the Scriptures*; 
+    Thomas Wentworth Higginson, "The Sympathy of Religions"
+
 
 Week 11, class 22 *
 
@@ -155,7 +154,7 @@ Week 11, class 22 *
 
 Week 12, class 23
 
-:   Agnosticism and Free Thought
+:   Agnosticism and Freethought
 
 :   Robert Ingersoll, "Why I Am an Agnostic"
 
