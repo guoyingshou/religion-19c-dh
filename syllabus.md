@@ -12,6 +12,16 @@ direct your own learning. k
 You might want to think of this as a history class mashed up with a shop
 class.
 
+This class is divided into three phases: *bootstrapping* (weeks 1--3), 
+in which you will quickly gain a basic competency in the history of 
+American religion, historical research skills, and the scholarly 
+techniques and technologies of the digital humanities; *building* (weeks 
+4--13), in which you will slowly build a deeper knowledge of religious 
+history while you build the digital project; and *beta* (week 14), in 
+which you will release the beta version of the digital project, and with 
+it your own beta interpretation of nineteenth-century religion.^[Jeremy 
+Boggs: "History is a perpetual beta."] 
+
 ## Learning goals
 
 After taking this course, you will be able to
@@ -23,7 +33,7 @@ After taking this course, you will be able to
 -   conduct original research in nineteenth-century primary sources;
 -   work collaboratively using the tools and techniques of digital
     humanities to create digital scholarship; and
--   write serious effectively for an Internet audience.
+-   write effectively for an Internet audience.
 
 ## The intellectual work of the course
 

@@ -1,7 +1,7 @@
-% Course Calendar
-% U.S. Religion in the 19th Century: A Digital History Seminar
+% Course Schedule
+% U.S. Religion in the 19th Century
 
-# Bootstrapping
+## Bootstrapping
 
 Week 1, class 1
 :   Introduction nineteenth-century U.S. religious history
@@ -27,14 +27,14 @@ Week 2, class 4
 Week 3, class 5
 :   Discussion of secondary works
 
-:   *due:* 2-page formal review of the book of your choice
+:   *due:* review of the book of your choice
 
 Week 3, class 6
 :   Lab day
 
 :   *due:* project proposal/contract
 
-# Building
+## Building
 
 Week 4, class 7
 :   Disestablishment
@@ -157,7 +157,7 @@ Week 14, class 27
 
 :   William James, *Varieties of Religious Experience*
 
-# Shipping
+## Beta
 
 Week 14, class 28
 :   Project presentations
