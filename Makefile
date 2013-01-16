@@ -1,4 +1,4 @@
-SYLLABUSFILENAME = 19c-religion-dh.pdf
+SYLLABUSFILENAME = religion-19c-dh.pdf
 COMPONENTS = syllabus.md.pdf schedule.md.pdf policies.md.pdf
 
 $(SYLLABUSFILENAME) : vc $(COMPONENTS)

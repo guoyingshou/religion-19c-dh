@@ -1,5 +1,5 @@
 % Course Calendar
-% Nineteenth-Century U.S. Religion: A Digital History Seminar
+% U.S. Religion in the 19th Century: A Digital History Seminar
 
 # Bootstrapping
 
@@ -131,7 +131,7 @@ Week 11, class 22
 :   *due:* draft of standards for evaluating projects
 
 Week 12, class 23
-:   Agnosticism and Freethought
+:   Agnosticism and freethought
 
 :   Robert Ingersoll, "Why I Am an Agnostic"
 
@@ -143,7 +143,7 @@ Week 12, class 24
 :   *due:* revision of standards for evaluating projects (if needed)
 
 Week 13, class 25
-:   The Social Gospel
+:   The social gospel
 
 :   Charles Sheldon, *In His Steps: What Would Jesus Do?*
 
