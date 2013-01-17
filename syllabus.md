@@ -2,25 +2,47 @@
   A Digital History Seminar
 % Lincoln A. Mullen
 
-### Course description
+## Course description
 
-The first three weeks of this class will requi
+The United States today has the highest rates of religious participation
+of any western democracy; of all the nations in the world, the United
+States is the most religiously diverse. The state of religion in the
+United States can be traced back to the nineteenth-century, which saw
+the flowering of America's astonishing religious diversity. In this
+course you will encounter an alliance of skeptics and believers who
+helped push through disestablishment; Baptist and Methodist revivalists;
+Catholic priests, missionaries, nuns, and laypeople; Cherokee rituals;
+slave religions; new religious traditions like Mormonism and Christian
+Science; Reform and Orthodox Jews; and liberal and conservative
+Protestants. We will try to make sense of that diversity through a set
+of unifying questions: how mainstream and minority faiths related to one
+another, especially in the public sphere; how people experienced
+religion in their everyday lives; how religions waxed and waned in
+popularity; how religions or religious people changed society and laws;
+how new forms of religious expression developed; how new religions
+sprang up in the United States; how religions were imported from Europe,
+Asia, Africa, and South America; and how religious participation and
+secularism grew hand in hand.
 
-This is an experimental course, in which you will have a chance to
-direct your own learning. k
+The centerpiece of this class will be making a digital history project:
+you will do your own original research into nineteenth-century sources
+to make a digital map of nineteenth-century religion in Boston and the
+surrounding towns. This digital project will let you use what you've
+learned about history in this class to make your own piece of historical
+work. In this history class as shop class, you'll learn digital
+skills---writing, publishing, mapping, analyzing---that are widely
+useful beyond the study of the past. No particular set of historical or
+digital skills is a prerequisite for this class, though taking a U.S.
+history survey would help.
 
-You might want to think of this as a history class mashed up with a shop
-class.
-
-This class is divided into three phases: *bootstrapping* (weeks 1--3), 
-in which you will quickly gain a basic competency in the history of 
-American religion, historical research skills, and the scholarly 
-techniques and technologies of the digital humanities; *building* (weeks 
-4--13), in which you will slowly build a deeper knowledge of religious 
-history while you build the digital project; and *beta* (week 14), in 
-which you will release the beta version of the digital project, and with 
-it your own beta interpretation of nineteenth-century religion.^[Jeremy 
-Boggs: "History is a perpetual beta."] 
+This class is divided into three phases: *bootstrapping* (weeks 1--3),
+in which you will quickly gain a basic competency in the history of
+American religion, historical research skills, and the scholarly
+techniques and technologies of the digital humanities; *building* (weeks
+4--13), in which you will slowly build a deeper knowledge of religious
+history while you build the digital project; and *beta* (week 14), in
+which you will release the beta version of the digital project, and with
+it your own beta interpretation of nineteenth-century religion.[^1]
 
 ## Learning goals
 
@@ -135,3 +157,7 @@ If you'd prefer to read another work, I'll entertain requests.
 
 > Jan Shipps, *Mormonism: The Story of a New Religious Tradition*
 > (Urbana: University of Illinois Press, 1985).
+
+[^1]: [Jeremy Boggs][]: "History is a perpetual beta."
+
+  [Jeremy Boggs]: http://clioweb.org/2006/09/29/history-is/
