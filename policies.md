@@ -11,8 +11,8 @@ participation assignments) in order to pass this course.
 
 ### Academic integrity
 
-You are expected to follow Brandeis University's policies on academic
-integrity <<http://www.brandeis.edu/studentlife/sdc/ai>\>.
+You are expected to know and follow Brandeis University's policies on 
+academic integrity <<http://www.brandeis.edu/studentlife/sdc/ai>\>.
 
 ### Course website and privacy
 
@@ -21,7 +21,7 @@ writing assignments. You may use either your real name or a *nom de
 plume* (which I will keep confidential). You retain the
 copyright to everything that you have written.
 
-### Handing in work
+### Handing in papers
 
 For any written assignments, attach a cover sheet with your name, your 
 e-mail address, the date, and the course name. This cover sheet does not 
@@ -29,7 +29,6 @@ count towards the required pages for each assignment. No identifying
 information, such as your name, should be on the main pages of the 
 assignment. I ask for a cover sheet so that I can grade impartially: 
 this is to your advantage. Staple all pages together.
-
 
 You must turn in all assignments both in paper and electronically. You
 should hand in the paper copy of each assignment at the start of class.
@@ -44,9 +43,6 @@ extension well in advance of the assignment's due date. For every day or
 part of a day that an assignment is late, I will deduct one letter
 grade.
 
-If you take advantage of the writing center, I will accept a writing
-center reward certificate for a one day extension.
-
 ### Participation and attendance
 
 Your attendance is expected every day without exception. We will be
@@ -59,11 +55,8 @@ If you must be absent, I request that you notify me by e-mail in advance
 of class meeting. Even if you are absent, you must turn in assignments
 before the time when our class meets.
 
-You may miss up to three classes without penalty. After every subsequent
-absence, I am required to lower your overall grade for the course by a
-third of a letter grade. For example, an A would be reduced to an A-.
-Missing conferences counts as an absence. After you are absent six
-times, I am required to give you a grade of F for the course.
+After the first two absences from class, the relevant portion of your 
+grade for the class will be lowered for each absence.
 
 ### Communications
 
@@ -81,10 +74,12 @@ I will discuss grades only in person.
 
 ### Electronic devices
 
-On certain days, which I will announce in advance, you may use laptops
-or tablets in class. For all other days, please bring the course
-readings in paper copy, and please stow all electronic devices by the
-start of class. Cell phones are never permitted.
+Because this is a digital history class you should feel free to bring 
+laptops and other devices to work on the project. During class 
+discussions of texts, however, there will be little need for the use of 
+laptops. Except for extraordinary circumstances, I can't see any reason 
+why you would need to use a cell phone in class, so please stow all 
+phones before class begins.
 
 ### Disabilities
 
@@ -94,11 +89,11 @@ this class, please speak with me immediately.
 
 ## Acknowledgments and license
 
-This syllabus borrows ideas, assignments, wording, and texts from Josh
-Cracraft, Kevin Doyle, Tona Hangen, and John Matzko.
+This syllabus borrows ideas from other digital history classes taught by 
+Jeremy Boggs, Tona Hangen, and especially Jeff McClurken.
 
-This syllabus and all assignments are copyrighted &copy; 2012 Lincoln
-Mullen and licensed CC-BY 3.0
-<<http://creativecommons.org/licenses/by/3.0/us/>>. You are free to use
-or modify this syllabus for any purpose, provided that you attribute it
+This syllabus and all assignments are copyrighted &copy; 2012 Lincoln 
+Mullen and licensed CC-BY 3.0 
+<<http://creativecommons.org/licenses/by/3.0/us/>>. You are free to use 
+or modify this syllabus for any purpose, provided that you attribute it 
 to the author, preferably at the course website listed above.
