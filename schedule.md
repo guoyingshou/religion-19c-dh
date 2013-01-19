@@ -76,12 +76,14 @@ Week 6, class 12
 Week 7, class 13
 :   The moral establishment
 
-:   *People v. Ruggles*; {TODO}
+:   *People v. Ruggles*; George Washington Bungay, *Temperance 
+    Anecdotes*
 
 Week 7, class 14
 :   Women's religion
 
-:   {TODO}
+:   Hannah Adams, *Memoir*; Rebecca Gratz, selected letters; Elizabeth
+    Cady Stanton, *The Woman's Bible*
 
 Week 8, class 15
 :   Slave religion
@@ -99,7 +101,9 @@ Week 8, class 16
 Week 9, class 17
 :   The Civil War
 
-:   {TODO}; Abraham Lincoln, "Second Inaugural Address"
+:   William Meade, "Address on the Day of Fasting and Prayer"; Horace
+    Bushnell, "Reverses Needed"; Abraham Lincoln, "Second Inaugural
+    Address"
 
 Week 9, class 18
 :   American religion seen from Europe
@@ -110,12 +114,12 @@ Week 9, class 18
 Week 10, class 19
 :   Mormonism
 
-:   Excerpts from *Book of Mormon*; *People v. Reynolds*
+:   Excerpts from *Book of Mormon*; Parley Parker Pratt, *Autobiography*
 
 Week 10, class 20
 :   Immigrant religion
 
-:   {TODO} catholic and protestant
+:   Abraham Kohn, "A Jewish Peddler's Diary"; *Baltimore Catechism*
 
 Week 11, class 21
 :   Metaphysical religion
@@ -162,4 +166,6 @@ Week 14, class 27
 Week 14, class 28
 :   Project presentations
 
-:   *due:* evaluation of group work
+:   *due:* written evaluations of group work
+
+
