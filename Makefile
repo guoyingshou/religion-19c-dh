@@ -1,7 +1,7 @@
 SYLLABUSFILENAME = religion-19c-dh.pdf
 COMPONENTS = syllabus.md.pdf schedule.md.pdf policies.md.pdf
 
-all : $(SYLLABUSFILENAME) statement.md.pdf
+all : $(SYLLABUSFILENAME) proposal.md.pdf
 
 $(SYLLABUSFILENAME) : vc $(COMPONENTS)
 	pdftk $(COMPONENTS) cat output $(SYLLABUSFILENAME)
@@ -31,7 +31,7 @@ schedule.md.pdf : schedule.md
 	pandoc $< -o $@ \
 		--template=syllabus-additional
 
-statement.md.pdf : statement.md
+proposal.md.pdf : proposal.md
 	pandoc $< -o $@ \
 		--variable documentclass=acadpaper \
 		--bibliography=/Users/lmullen/bib/master.bib \
@@ -47,6 +47,6 @@ vc	:
 	./vc
 
 clean:
-	rm $(SYLLABUSFILENAME) $(COMPONENTS) statement.md.pdf
+	rm $(SYLLABUSFILENAME) $(COMPONENTS) proposal.md.pdf
 
 rebuild : clean $(SYLLABUSFILENAME)
