@@ -1,6 +1,8 @@
 SYLLABUSFILENAME = religion-19c-dh.pdf
 COMPONENTS = syllabus.md.pdf schedule.md.pdf policies.md.pdf
 
+all : $(SYLLABUSFILENAME) statement.md.pdf
+
 $(SYLLABUSFILENAME) : vc $(COMPONENTS)
 	pdftk $(COMPONENTS) cat output $(SYLLABUSFILENAME)
 
@@ -28,6 +30,10 @@ syllabus.md.pdf : syllabus.md
 schedule.md.pdf : schedule.md
 	pandoc $< -o $@ \
 		--template=syllabus-additional
+
+statement.md.pdf : statement.md
+	pandoc $< -o $@ \
+		--variable documentclass=acadpaper
 
 # upload syllabus to website
 upload : $(SYLLABUSFILENAME)
