@@ -90,10 +90,10 @@ this class, please speak with me immediately.
 ## Acknowledgments and license
 
 This syllabus borrows ideas from other digital history classes taught by 
-Jeremy Boggs, Tona Hangen, and especially Jeff McClurken.
+Jeremy Boggs, Mills Kelly, Tona Hangen, and especially Jeff McClurken.
 
-This syllabus and all assignments are copyrighted &copy; 2012 Lincoln 
+This syllabus and all assignments are copyrighted &copy; 2013 Lincoln 
 Mullen and licensed CC-BY 3.0 
-<<http://creativecommons.org/licenses/by/3.0/us/>>. You are free to use 
+<<http://creativecommons.org/licenses/by/3.0/us/>\>. You are free to use 
 or modify this syllabus for any purpose, provided that you attribute it 
 to the author, preferably at the course website listed above.

@@ -4,36 +4,37 @@
 
 ## Course description
 
-The United States today has the highest rates of religious participation
-of any western democracy; of all the nations in the world, the United
-States is the most religiously diverse. The state of religion in the
-United States can be traced back to the nineteenth-century, which saw
-the flowering of America's astonishing religious diversity. In this
-course you will encounter an alliance of skeptics and believers who
-helped push through disestablishment; Baptist and Methodist revivalists;
-Catholic priests, missionaries, nuns, and laypeople; Cherokee rituals;
-slave religions; new religious traditions like Mormonism and Christian
-Science; Reform and Orthodox Jews; and liberal and conservative
-Protestants. We will try to make sense of that diversity through a set
-of unifying questions: how mainstream and minority faiths related to one
-another, especially in the public sphere; how people experienced
-religion in their everyday lives; how religions waxed and waned in
-popularity; how religions or religious people changed society and laws;
-how new forms of religious expression developed; how new religions
-sprang up in the United States; how religions were imported from Europe,
-Asia, Africa, and South America; and how religious participation and
-secularism grew hand in hand.
+During the American Revolution and the following decades, the state and
+federal governments cut their financial and constitutional support for
+established churches. Though many at the time predicted the demise of
+Christianity, the result was a flowering of an astonishing diversity of
+religions. In this course you will read the writings of the many
+individuals and groups that lived out their religion in the
+nineteenth-century United States: the alliance of skeptics and believers
+who supported disestablishment; Baptist and Methodists revivalists;
+Catholic priests, missionaries, and animists; founders of new religions
+such as Mormonism and Christian Science; Reform and Orthodox Jews;
+African-Americans; metaphysicians; liberal and conservative Protestants;
+agnostics and atheists. We will make sense of that diversity by asking
+and answering a set of unifying questions: How did mainstream and
+minority faiths relate to one another especially in the public sphere?
+How did people experience religion in their everyday religious people
+changed laws and society? How were new forms of religious expression
+devlop? How were new religions founded? How were religions imported from
+Europe, Asia, Africa, and South America, and how did those religions
+adapt? How did Americans become more religious and more secular at the
+same time?
 
-The centerpiece of this class will be making a digital history project:
-you will do your own original research into nineteenth-century sources
-to make a digital map of nineteenth-century religion in Boston and the
-surrounding towns. This digital project will let you use what you've
-learned about history in this class to make your own piece of historical
-work. In this history class as shop class, you'll learn digital
-skills---writing, publishing, mapping, analyzing---that are widely
-useful beyond the study of the past. No particular set of historical or
-digital skills is a prerequisite for this class, though taking a U.S.
-history survey would help.
+The centerpiece of this class will be a digital history project: you
+will do your own original research into nineteenth-century sources to
+make a digital map of religion in Boston over the nineteenth century.
+Creating this project will teach yout the skills of a
+historian---reseaching, writing, analyzing---and will let you put what
+you'll learn in this class to work on the ground. In this history class
+as shop class, you'll also learn digital and project
+skills---publishing, mapping, encoding, collaborating, communicating,
+managing---that are widely useful in government, business, and reseach
+outside the academy.
 
 This class is divided into three phases: *bootstrapping* (weeks 1--3),
 in which you will quickly gain a basic competency in the history of
@@ -42,7 +43,7 @@ techniques and technologies of the digital humanities; *building* (weeks
 4--13), in which you will slowly build a deeper knowledge of religious
 history while you build the digital project; and *beta* (week 14), in
 which you will release the beta version of the digital project, and with
-it your own beta interpretation of nineteenth-century religion.[^1]
+it your own interpretation of nineteenth-century religion.
 
 ## Learning goals
 
@@ -52,10 +53,12 @@ After taking this course, you will be able to
     century as they relate to many different denominations and
     religions;
 -   interpret the primary sources of American religious history;
--   conduct original research in nineteenth-century primary sources;
+-   conduct original historical research in nineteenth-century primary
+    sources;
 -   work collaboratively using the tools and techniques of digital
-    humanities to create digital scholarship; and
--   write effectively for an Internet audience.
+    humanities to create digital scholarship;
+-   conceive of and build a large scale digital project; and
+-   write effectively for an public audience.
 
 ## The intellectual work of the course
 
@@ -76,41 +79,39 @@ will be several steps along the way. First, by the end of week 3, your
 group will present a **project proposal/contract**, which will specify
 the historical sources and technologies that the project will use, the
 goals that the project will accomplish, and the specific duties of each
-team member. Second, beginning in week 4, your group will give brief
+team member. Second, beginning in week 4 your group will give brief
 project updates each week in class. Third, in week 11, we will
-collaboratively draft a **standards for evaluating projects**, based on
+collaboratively draft **standards for evaluating projects**, based on
 DHjprojects funded by the National Endowment for the Humanities Office
 of Digital Humanities and created by DH shops at other universities.
 Fourth, your group will make a **formal presentation** of your work on
 the last day of class.
 
-This research project will be *a lot of work*, almost all of it directed
-and motivated by you---always with my encouragement, help, and support
-along the way. At the end of the semester you will have created a piece
-of scholarship of which you can be proud.
-
 The other main work you will do is **reading and discussing** American
 religious history in the nineteenth century. In the first three weeks of
 the class, you will read Butler, Wacker, and Ballmer's survey history of
 American religion and a more detailed history of an American religious
-tradition of your choice (see below), for which you will write a review
-(5--7 pages) comparing the two books. For each class period in weeks 4
-to 14, you will read some primary sources for each class period, which
-you must be prepared to discuss in class.
+tradition of your choice (see below), for which you will **write a
+review** (5--7 pages) comparing the two books. For each class period in
+weeks 4 to 14, you will **read primary sources**, which you must be
+prepared to discuss.
 
-Because this class is so collaborative and self-directed, a lot of the
+Because this class is collaborative and self-directed, a lot of the
 communication between you and your colleagues, and between you and me,
 will happen on the **course blog**. Beginning in week 3, you will write
 a minimum of one brief blog post per week, describing the work you've
 done on the digital project. (You can write as many posts as you like.)
-Topics can includes the research you're doing, the skills you're
+Topics can include the research you're doing, the skills you're
 learning, the decisions you're making, the connections you're drawing to
 the class readings, etc. You will also make at least two comments per
 week on your colleagues' posts.
 
 ## Evaluation
 
-The assignments for this course will receive these weights.
+The assignments for this course will receive these weights. For
+assignments which are collaborative, your grade will be determined both
+by your individual contribution and by the overall quality of the
+project.
 
   assignment                 weight
   -------------------------- --------
@@ -119,10 +120,6 @@ The assignments for this course will receive these weights.
   readings and discussions   20%
   book review                10%
   blogging                   10%
-
-For assignments which are collaborative, your grade will be determined
-both by your individual contribution and by the overall quality of the
-project.
 
 ## Texts
 
@@ -133,7 +130,6 @@ Everyone will need to buy a copy of this historical survey:
 > Life: A Short History* (New York: Oxford University Press, 2011).
 
 You will need to buy or otherwise obtain your choice of the texts below.
-If you'd prefer to read another work, I'll entertain requests.
 
 > Catherine L. Albanese, *A Republic of Mind and Spirit: A Cultural
 > History of American Metaphysical Religion* (New Haven: Yale University
@@ -157,7 +153,3 @@ If you'd prefer to read another work, I'll entertain requests.
 
 > Jan Shipps, *Mormonism: The Story of a New Religious Tradition*
 > (Urbana: University of Illinois Press, 1985).
-
-[^1]: [Jeremy Boggs][]: "History is a perpetual beta."
-
-  [Jeremy Boggs]: http://clioweb.org/2006/09/29/history-is/
