@@ -34,7 +34,7 @@ You must turn in all assignments both in paper and electronically. You
 should hand in the paper copy of each assignment at the start of class.
 You should turn in the electronic copy to the LATTE drop box before the
 start of class. Please submit only PDFs. You should title your filename
-something like `Lastname-Firstname.lens-essay.pdf`.
+something like `Lastname-Firstname.book-review.pdf`.
 
 ### Late work
 

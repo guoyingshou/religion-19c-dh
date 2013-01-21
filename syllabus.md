@@ -1,4 +1,4 @@
-% U.S. Religion in the 19th Century:  
+% Nineteenth-Century American Religion:
   A Digital History Seminar
 % Lincoln A. Mullen
 
@@ -17,10 +17,10 @@ such as Mormonism and Christian Science; Reform and Orthodox Jews;
 African-Americans; metaphysicians; liberal and conservative Protestants;
 agnostics and atheists. We will make sense of that diversity by asking
 and answering a set of unifying questions: How did mainstream and
-minority faiths relate to one another especially in the public sphere?
+minority faiths relate to one another, especially in the public sphere?
 How did people experience religion in their everyday religious people
-changed laws and society? How were new forms of religious expression
-devlop? How were new religions founded? How were religions imported from
+changed laws and society? How did new forms of religious expression
+develop? How were new religions founded? How were religions imported from
 Europe, Asia, Africa, and South America, and how did those religions
 adapt? How did Americans become more religious and more secular at the
 same time?
@@ -28,12 +28,12 @@ same time?
 The centerpiece of this class will be a digital history project: you
 will do your own original research into nineteenth-century sources to
 make a digital map of religion in Boston over the nineteenth century.
-Creating this project will teach yout the skills of a
-historian---reseaching, writing, analyzing---and will let you put what
+Creating this project will teach you the skills of a
+historian---researching, writing, analyzing---and will let you put what
 you'll learn in this class to work on the ground. In this history class
 as shop class, you'll also learn digital and project
 skills---publishing, mapping, encoding, collaborating, communicating,
-managing---that are widely useful in government, business, and reseach
+managing---that are widely useful in government, business, and research
 outside the academy.
 
 This class is divided into three phases: *bootstrapping* (weeks 1--3),
@@ -58,7 +58,7 @@ After taking this course, you will be able to
 -   work collaboratively using the tools and techniques of digital
     humanities to create digital scholarship;
 -   conceive of and build a large scale digital project; and
--   write effectively for an public audience.
+-   write effectively for a public audience.
 
 ## The intellectual work of the course
 
@@ -82,7 +82,7 @@ goals that the project will accomplish, and the specific duties of each
 team member. Second, beginning in week 4 your group will give brief
 project updates each week in class. Third, in week 11, we will
 collaboratively draft **standards for evaluating projects**, based on
-DHjprojects funded by the National Endowment for the Humanities Office
+DH projects funded by the National Endowment for the Humanities Office
 of Digital Humanities and created by DH shops at other universities.
 Fourth, your group will make a **formal presentation** of your work on
 the last day of class.
@@ -91,20 +91,20 @@ The other main work you will do is **reading and discussing** American
 religious history in the nineteenth century. In the first three weeks of
 the class, you will read Butler, Wacker, and Ballmer's survey history of
 American religion and a more detailed history of an American religious
-tradition of your choice (see below), for which you will **write a
+tradition of your choice (see below), and you will **write a
 review** (5--7 pages) comparing the two books. For each class period in
 weeks 4 to 14, you will **read primary sources**, which you must be
 prepared to discuss.
 
-Because this class is collaborative and self-directed, a lot of the
-communication between you and your colleagues, and between you and me,
-will happen on the **course blog**. Beginning in week 3, you will write
-a minimum of one brief blog post per week, describing the work you've
-done on the digital project. (You can write as many posts as you like.)
-Topics can include the research you're doing, the skills you're
-learning, the decisions you're making, the connections you're drawing to
-the class readings, etc. You will also make at least two comments per
-week on your colleagues' posts.
+Because this class is collaborative and self-directed, much of the 
+communication between you and your colleagues, and between you and me, 
+will happen on the **course blog**. Beginning in week 3, you will write 
+a minimum of one brief blog post per week, describing the work you've 
+done on the digital project. (You can write as many posts as you like.) 
+Topics can include the research you're doing, the skills you're 
+learning, the decisions you're making, the connections you're drawing to 
+the class readings, and the like. You will also make at least two 
+comments per week on your colleagues' posts.
 
 ## Evaluation
 
@@ -123,8 +123,9 @@ project.
 
 ## Texts
 
-Almost all of the readings will be available on the course website.
-Everyone will need to buy a copy of this historical survey:
+All of the primary source readings (listed on the schedule) will be 
+available on the course website.  Everyone will need to buy a copy of 
+this historical survey:
 
 > Randall Balmer, Jon Butler and Grant Wacker, *Religion in American
 > Life: A Short History* (New York: Oxford University Press, 2011).
