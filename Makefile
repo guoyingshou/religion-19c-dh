@@ -33,7 +33,9 @@ schedule.md.pdf : schedule.md
 
 statement.md.pdf : statement.md
 	pandoc $< -o $@ \
-		--variable documentclass=acadpaper
+		--variable documentclass=acadpaper \
+		--bibliography=/Users/lmullen/bib/master.bib \
+		--csl=chicago-mullen.csl
 
 # upload syllabus to website
 upload : $(SYLLABUSFILENAME)
@@ -45,6 +47,6 @@ vc	:
 	./vc
 
 clean:
-	rm $(SYLLABUSFILENAME) $(COMPONENTS)
+	rm $(SYLLABUSFILENAME) $(COMPONENTS) statement.md.pdf
 
 rebuild : clean $(SYLLABUSFILENAME)
