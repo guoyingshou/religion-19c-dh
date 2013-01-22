@@ -1,4 +1,4 @@
-% Nineteenth-Century American Religion:
+% Nineteenth-Century American Religion:  
   A Digital History Seminar
 % Lincoln A. Mullen
 
