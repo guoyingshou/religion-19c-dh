@@ -20,10 +20,10 @@ and answering a set of unifying questions: How did mainstream and
 minority faiths relate to one another, especially in the public sphere?
 How did people experience religion in their everyday religious people
 changed laws and society? How did new forms of religious expression
-develop? How were new religions founded? How were religions imported from
-Europe, Asia, Africa, and South America, and how did those religions
-adapt? How did Americans become more religious and more secular at the
-same time?
+develop? How were new religions founded? How were religions imported
+from Europe, Asia, Africa, and South America, and how did those
+religions adapt? How did Americans become more religious and more
+secular at the same time?
 
 The centerpiece of this class will be a digital history project: you
 will do your own original research into nineteenth-century sources to
@@ -35,6 +35,37 @@ as shop class, you'll also learn digital and project
 skills---publishing, mapping, encoding, collaborating, communicating,
 managing---that are widely useful in government, business, and research
 outside the academy.
+
+You can get a sense of the kind of work that we will do in this class by
+examining these digital history mapping projects (starred projects are
+especially impressive):
+
+-   American Whaling Mapped:\
+     \<<http://sappingattention.blogspot.com/2012/11/>\>
+-   Hotchkiss's Maps of the Battles of Fredricksburg and
+    Chancellorsville:\
+     \<<http://neatline.org/neatline-in-action/>\>
+-   Inventing the Map:\
+     \<<http://henshaw.scholarslab.org/>\>
+-   \*Map of Early Modern London:\
+     \<<http://mapoflondon.uvic.ca/>\>
+-   Mapping Marriage and Migration in Emancipation-era Virginia:\
+     \<<http://dsl.richmond.edu/civilwar/mme.html>\>
+-   Mapping Richmond's Slave Market:\
+     \<<http://dsl.richmond.edu/civilwar/slavemarket.html>\>
+-   Redlining Richmond:\
+     \<<http://dsl.richmond.edu/holc/pages/home>\>
+-   Americans in Paris:\
+     \<<http://tocqueville.richmond.edu/AmericansInParis.html>\>
+-   \*Shaping the West:\
+
+    \<<http://www.stanford.edu/group/spatialhistory/cgi-bin/site/project.php?id=997>\>
+-   \*Visualizing Emancipation:\
+     \<<http://dsl.richmond.edu/emancipation/>\>
+-   Travels Across the Plains:\
+     \<<http://dsl.richmond.edu/oregontrail/>\>
+-   Voting America: United States Politics, 1840--2008:\
+     \<<http://dsl.richmond.edu/voting/indelections.php>\>
 
 This class is divided into three phases: *bootstrapping* (weeks 1--3),
 in which you will quickly gain a basic competency in the history of
@@ -81,9 +112,9 @@ the historical sources and technologies that the project will use, the
 goals that the project will accomplish, and the specific duties of each
 team member. Second, beginning in week 4 your group will give brief
 project updates each week in class. Third, in week 11, we will
-collaboratively draft **standards for evaluating projects**, based on
-DH projects funded by the National Endowment for the Humanities Office
-of Digital Humanities and created by DH shops at other universities.
+collaboratively draft **standards for evaluating projects**, based on DH
+projects funded by the National Endowment for the Humanities Office of
+Digital Humanities and created by DH shops at other universities.
 Fourth, your group will make a **formal presentation** of your work on
 the last day of class.
 
@@ -91,19 +122,19 @@ The other main work you will do is **reading and discussing** American
 religious history in the nineteenth century. In the first three weeks of
 the class, you will read Butler, Wacker, and Ballmer's survey history of
 American religion and a more detailed history of an American religious
-tradition of your choice (see below), and you will **write a
-review** (5--7 pages) comparing the two books. For each class period in
-weeks 4 to 14, you will **read primary sources**, which you must be
-prepared to discuss.
+tradition of your choice (see below), and you will **write a review**
+(5--7 pages) comparing the two books. For each class period in weeks 4
+to 14, you will **read primary sources**, which you must be prepared to
+discuss.
 
-Because this class is collaborative and self-directed, much of the 
-communication between you and your colleagues, and between you and me, 
-will happen on the **course blog**. Beginning in week 3, you will write 
-a minimum of one brief blog post per week, describing the work you've 
-done on the digital project. (You can write as many posts as you like.) 
-Topics can include the research you're doing, the skills you're 
-learning, the decisions you're making, the connections you're drawing to 
-the class readings, and the like. You will also make at least two 
+Because this class is collaborative and self-directed, much of the
+communication between you and your colleagues, and between you and me,
+will happen on the **course blog**. Beginning in week 3, you will write
+a minimum of one brief blog post per week, describing the work you've
+done on the digital project. (You can write as many posts as you like.)
+Topics can include the research you're doing, the skills you're
+learning, the decisions you're making, the connections you're drawing to
+the class readings, and the like. You will also make at least two
 comments per week on your colleagues' posts.
 
 ## Evaluation
@@ -123,8 +154,8 @@ project.
 
 ## Texts
 
-All of the primary source readings (listed on the schedule) will be 
-available on the course website.  Everyone will need to buy a copy of 
+All of the primary source readings (listed on the schedule) will be
+available on the course website. Everyone will need to buy a copy of
 this historical survey:
 
 > Randall Balmer, Jon Butler and Grant Wacker, *Religion in American
