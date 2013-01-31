@@ -73,7 +73,7 @@ on religion. Classes offered in religious history or cognate disciplines
 usually enroll twenty or more students.
 
 \footnotesize
-\def\medskip{\vskip -.30em}
+\def\medskip{\vskip -.4em}
 
   Course                                      Instructor         2013   2012   2011
   ------------------------------------------- ----------------- ------ ------ ------
