@@ -6,7 +6,7 @@ her famous, *An Alphabetical Compendium of the Various Sects Which Have
 Appeared from the Beginning of the Christian Era to the Present Day*.
 Adams, who was the first American woman to earn her livelihood with her
 pen, had compiled a painstaking guide to world religions that had given
-her trouble that was more than intellectual, On the one hand, she wished
+her trouble that was more than intellectual. On the one hand, she wished
 to counter the practice of other authors who gave "the most unfavorable
 descriptions of the denominations that they disliked." But on the other
 hand, as she "abridge[d] what appeared to me the most plausible
@@ -61,17 +61,18 @@ Sarna's courses on American Judaism in the Near Eastern and Judaic
 Studies Departments. This class would be only the second digital
 humanities course offered at Brandeis, following on John Unsworth's 2013
 English department class, though a growing number of institutions---both
-research universities and liberal arts colleges---are now offering 
-similar courses. I have begun working with Library and Technology 
-Services to ascertain that the infrastructure to support the digital 
-project is available.
+research universities and liberal arts colleges---are now offering
+similar courses. I have consulted with Josh Wilson of Library and
+Technology Services, and LTS intends to support this class with the
+necessary technological infrastructure. Judy Pinnolis and Patrick
+Gamsby, the humanities librarians, have also offered to help students
+with the research for the course.
 
-Enrollment figures for other classes indicate that Brandeis students
-want to take courses on religion (see table below). Classes offered in
-religious history or cognate disciplines usually enroll twenty or more
-students.
+Enrollment figures indicate that Brandeis students want to take courses 
+on religion. Classes offered in religious history or cognate disciplines 
+usually enroll twenty or more students.
 
-\small
+\footnotesize
 \def\medskip{\vskip -.30em}
 
   Course                                      Instructor         2013   2012   2011
@@ -84,3 +85,5 @@ students.
   Anthropology of Religion                    Golomski            34          
   Intro to Judaism, Christianity, and Islam   Decter              16          
   Intro to Hinduism                           Nair                       40   
+
+
