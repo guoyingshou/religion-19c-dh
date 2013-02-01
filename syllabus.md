@@ -18,10 +18,10 @@ African-Americans; metaphysicians; liberal and conservative Protestants;
 agnostics and atheists. We will make sense of that diversity by asking
 and answering a set of unifying questions: How did mainstream and
 minority faiths relate to one another, especially in the public sphere?
-How did people experience religion in their everyday religious people
-changed laws and society? How did new forms of religious expression
-develop? How were new religions founded? How were religions imported
-from Europe, Asia, Africa, and South America, and how did those
+How did people experience religion in their everyday lives? How did
+religious people change laws and society? How did new forms of religious
+expression develop? How were new religions founded? How were religions
+imported from Europe, Asia, Africa, and South America, and how did those
 religions adapt? How did Americans become more religious and more
 secular at the same time?
 
@@ -40,8 +40,12 @@ You can get a sense of the kind of work that we will do in this class by
 examining these digital history mapping projects (starred projects are
 especially impressive):
 
+-   Americans in Paris:\
+     \<<http://tocqueville.richmond.edu/AmericansInParis.html>\>
 -   American Whaling Mapped:\
      \<<http://sappingattention.blogspot.com/2012/11/>\>
+-   Aurora Project:\
+     \<<http://auroraproject.unl.edu/index.html>\>
 -   Hotchkiss's Maps of the Battles of Fredricksburg and
     Chancellorsville:\
      \<<http://neatline.org/neatline-in-action/>\>
@@ -53,10 +57,10 @@ especially impressive):
      \<<http://dsl.richmond.edu/civilwar/mme.html>\>
 -   Mapping Richmond's Slave Market:\
      \<<http://dsl.richmond.edu/civilwar/slavemarket.html>\>
+-   \*Railroads and the Making of Modern America:\
+     \<<http://railroads.unl.edu/>\>
 -   Redlining Richmond:\
      \<<http://dsl.richmond.edu/holc/pages/home>\>
--   Americans in Paris:\
-     \<<http://tocqueville.richmond.edu/AmericansInParis.html>\>
 -   \*Shaping the West:\
 
     \<<http://www.stanford.edu/group/spatialhistory/cgi-bin/site/project.php?id=997>\>
