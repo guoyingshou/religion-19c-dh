@@ -1,18 +1,18 @@
 % Nineteenth-Century American Religion: A Digital History Seminar
 % Lincoln A. Mullen
 
-In 1784 Medfield author Hannah Adams published the book that would make
-her famous, *An Alphabetical Compendium of the Various Sects Which Have
-Appeared from the Beginning of the Christian Era to the Present Day*.
-Adams, who was the first American woman to earn her livelihood with her
-pen, had compiled a painstaking guide to world religions that had given
-her trouble that was more than intellectual. On the one hand, she wished
-to counter the practice of other authors who gave "the most unfavorable
-descriptions of the denominations that they disliked." But on the other
-hand, as she "abridge[d] what appeared to me the most plausible
-arguments for every denomination," she "suffered extremely from mental
-indecision, while perusing the various and contradictory arguments
-adduced ... in defence of their respective religious systems."
+In 1784 Medfield author Hannah Adams published the book that would make 
+her famous, *An Alphabetical Compendium of the Various Sects Which Have 
+Appeared from the Beginning of the Christian Era to the Present Day*. 
+Adams, who was the first American woman to earn her livelihood with her 
+pen, had compiled a painstaking guide to world religions. Writing the 
+guide gave her trouble that was more than intellectual. On the one hand, 
+she wished to counter the practice of other authors who gave "the most 
+unfavorable descriptions of the denominations that they disliked." But 
+on the other hand, as she "abridge[d] what appeared to me the most 
+plausible arguments for every denomination," she "suffered extremely 
+from mental indecision, while perusing the various and contradictory 
+arguments adduced ... in defence of their respective religious systems." 
 [@adams1832memoir, pp. 13--14.]
 
 The problem Adams faced was how religious diversity should feature in
