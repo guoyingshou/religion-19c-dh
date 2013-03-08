@@ -39,7 +39,7 @@ proposal.md.pdf : proposal.md
 
 # upload syllabus to website
 upload : $(SYLLABUSFILENAME)
-	scp $(SYLLABUSFILENAME) lam:public_html/docs/
+	scp $(SYLLABUSFILENAME) lam:public_html/downloads/docs/
 
 # update the version control information
 .PHONY : vc
