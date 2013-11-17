@@ -1,4 +1,4 @@
-% Nineteenth-Century American Religion:  
+% Mapping Boston's Religions:
   A Digital History Seminar
 % Lincoln A. Mullen
 
