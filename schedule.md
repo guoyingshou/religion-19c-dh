@@ -1,144 +1,158 @@
-% Course Schedule
-% U.S. Religion in the 19th Century
+---
+author:
+- 'U.S. Religion in the 19th Century'
+title: Course Schedule
+...
 
 ## Bootstrapping
 
-Week 1, class 1
+Jan 14 (T)
 :   Introduction to nineteenth-century U.S. religious history
 
-Week 1, class 2
-:   Introduction to digital history
+Jan 17 (F)
+:   NO CLASS
+
+:   Work on book reviews
+
+:   Class will be made up with a session in the Leventhal Map Center,
+    Boston Public Library
+
+Jan 21 (T)
+:   Introduction to digital history / sources in religious history
 
 :   *due:* 5-minute informal presentation on a DH project
 
-Week 2, class 3
-:   How to find and read primary sources in religious history
-
-Week 2, class 4
+Jan 24 (F)
 :   Spatial history
 
 :   *reading:* Richard White, "What Is Spatial History?"; Jo Guldi,
     "What is the Spatial Turn?" and "The Spatial Turn in History"
 
-Week 3, class 5
+Jan 28 (T)
 :   Discussion of secondary works
 
 :   *due:* review of the book of your choice
 
-Week 3, class 6
+Jan 31 (F)
 :   Lab day
 
 :   *due:* project proposal/contract
 
 ## Building
 
-Week 4, class 7
+Feb 4 (T)
 :   Disestablishment
 
 :   *reading:* Thomas Jefferson, Virginia Statute for Religious Freedom;
     correspondence between Newport synagogue and George Washington; John
     Leland, *The Rights of Conscience Inalienable*
 
-Week 4, class 8
+Feb 7 (F)
 :   The Second Great Awakening
 
 :   *reading:* Peter Cartwright, *Autobiography*
 
 :   *due:* revision of proposal/contract (if needed)
 
-Week 5, class 9
+Feb 11 (T)
 :   Catholic revivalism
 
 :   *reading:* Isaac T. Hecker, diary and letters; Elizabeth Ann Bayley
     Seton, letters
 
-Week 5, class 10
+Feb 14 (F)
 :   Cherokees and Moravians
 
 :   *reading:* John Howard Payne and Daniel Butrick, *Papers*; Rowena
     McClinton, ed., *Moravian Springplace Diary*
 
-Week 6, class 11
+Feb 18 (T)
+:   NO CLASS
+
+Feb 21 (F)
+:   NO CLASS
+
+Feb 25 (T)
 :   The Eliot School rebellion
 
 :   *reading:* *The Bible and Our School System*
 
-Week 6, class 12
+Feb 28 (F)
 :   Unitarianism and Transcendentalism
 
 :   *reading:* William Ellery Channing, "Christianity a Rational
     Religion"; Ralph Waldo Emerson, "Divinity School Address"
 
-Week 7, class 13
+March 4 (T)
 :   The moral establishment
 
 :   *reading:* *People v. Ruggles*; George Washington Bungay,
     *Temperance Anecdotes*
 
-Week 7, class 14
+March 7 (F)
 :   Women's religion
 
 :   *reading:* Hannah Adams, *Memoir*; Rebecca Gratz, selected letters;
     Elizabeth Cady Stanton, *The Woman's Bible*
 
-Week 8, class 15
+March 11 (T)
 :   Slave religion
 
 :   *reading:* Jarena Lee, *The Life and Religious Experience of Jarena
     Lee*; Frederick Douglass, *Narrative of the Life of an American
     Slave*; collected spirituals
 
-Week 8, class 16
+March 14 (F)
 :   Abolitionism and anti-abolitionism
 
 :   *reading:* Angelina Grimké, *An Appeal to the Christian Women of the
     South*; Robert L. Dabney, *A Defense of Virginia*
 
-Week 9, class 17
+March 18 (T)
 :   The Civil War
 
 :   *reading:* William Meade, "Address on the Day of Fasting and
     Prayer"; Horace Bushnell, "Reverses Needed"; Abraham Lincoln,
     "Second Inaugural Address"
 
-Week 9, class 18
+March 21 (F)
 :   American religion seen from Europe
 
 :   *reading:* Philip Schaff, *America: A Sketch of the Political,
     Social, and Religious Character of the United States of North
     America*
 
-Week 10, class 19
+March 25 (T)
 :   Mormonism
 
 :   *reading:* Excerpts from *Book of Mormon*; Parley Parker Pratt,
     *Autobiography*
 
-Week 10, class 20
+March 28 (F)
 :   Immigrant religion
 
 :   *reading:* Abraham Kohn, "A Jewish Peddler's Diary"; *Baltimore
     Catechism*
 
-Week 11, class 21
+April 1 (T)
 :   Metaphysical religion
 
 :   *reading:* Mary Baker Eddy, *Science and Health, with Key to the
     Scriptures*; Thomas Wentworth Higginson, "The Sympathy of Religions"
 
-Week 11, class 22
+April 4 (F)
 :   African-American religion
 
 :   *reading:* W. E. B. DuBois, *Souls of Black Folk*
 
 :   *due:* draft of standards for evaluating projects
 
-Week 12, class 23
+April 8 (T)
 :   Agnosticism and freethought
 
 :   *reading:* Robert Ingersoll, "Why I Am an Agnostic"
 
-Week 12, class 24
+April 11 (F)
 :   Reform and Orthodox Judaism
 
 :   *reading:* The Pittsburgh Platform; Platform of the Orthdox Jewish
@@ -146,25 +160,29 @@ Week 12, class 24
 
 :   *due:* revision of standards for evaluating projects (if needed)
 
-Week 13, class 25
+April 15 (T)
+:   NO CLASS
+
+April 18 (F)
+:   NO CLASS
+
+April 22 (T)
+:   NO CLASS
+
+April 25 (F)
 :   The social gospel
 
 :   *reading:* Charles Sheldon, *In His Steps: What Would Jesus Do?*
 
-Week 13, class 26
+Aoril 29 (T)
 :   World's Parliament of Religions
 
 :   *reading:* John Henry Barrows, ed., *The World's Parliament of
     Religions*
 
-Week 14, class 27
-:   The study of religion
-
-:   *reading:* William James, *Varieties of Religious Experience*
-
 ## Beta
 
-Week 14, class 28
+Final Exam Period (TBD)
 :   Project presentations
 
 :   *due:* written evaluations of group work
