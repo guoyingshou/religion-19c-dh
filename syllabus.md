@@ -1,6 +1,21 @@
-% Mapping Boston's Religions:  
-  A Digital History Seminar
-% Lincoln A. Mullen
+---
+author:
+- 'Lincoln A. Mullen'
+classroom: Kutz Hall 132
+coursenumber: HIST 144A
+courseweb: 'http://blogs.brandeis.edu/hist144a/'
+email: 'lmullen@brandeis.edu'
+mailbox: 'Outside Olin-Sang 215'
+office: TBD
+officehours: 'Tuesday/Friday 11:00--12:00 p.m. and by appointment'
+semester: Spring 2014
+times: 'Tuesday/Friday 12:30--2:00 p.m.'
+title: |
+    Mapping Boston's Religions:\
+     A Digital History Seminar
+university: Brandeis University
+web: 'http://lincolnmullen.com'
+...
 
 ## Course description
 

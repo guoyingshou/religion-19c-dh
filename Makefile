@@ -13,16 +13,7 @@ policies.md.pdf : policies.md
 
 syllabus.md.pdf : syllabus.md
 	pandoc $< -o $@ \
-		--template=syllabus \
-		--variable=coursenumber:'HIST 144A' \
-		--variable=university:'Brandeis University' \
-		--variable=office:'TBA' \
-		--variable=hours:'TBA' \
-		--variable=semester:'Spring 2014' \
-		--variable=classroom:'TBA' \
-		--variable=times:'Tuesday/Friday 12:30-2:00' \
-		--variable=email:'lmullen@brandeis.edu' \
-		--variable=web:'http://lincolnmullen.com'
+		--template=syllabus
 
 schedule.md.pdf : schedule.md
 	pandoc $< -o $@ \
