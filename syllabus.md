@@ -85,7 +85,7 @@ especially impressive):
      \<<http://dsl.richmond.edu/oregontrail/>\>
 -   Voting America: United States Politics, 1840--2008:\
      \<<http://dsl.richmond.edu/voting/indelections.php>\>
--   Student projects in Jeff McClurken's courses:
+-   Student projects in Jeff McClurken's courses:\
     \<<http://mcclurken.org/>\>
 
 This class is divided into three phases: *bootstrapping* (weeks 1--3),
