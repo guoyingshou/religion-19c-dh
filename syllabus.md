@@ -165,8 +165,11 @@ that you can expect that we might change the assignments for the course
 as we go along. You can be certain, for example, that the contract you
 will draw up will obligate you to accomplishing certain work at certain
 times during the course, and so this work is not on the schedule below.
-You can also expect that as work on the main project proceeds add to and
-modify the readings for the course to help your work on the project.
+You can also expect that as work on the main project proceeds I might
+modify the readings for the course to help your work on the project. In
+any case you will be doing your own research---and thus your own reading
+in primary and secondary works---which you should also be prepared to
+discuss at various times in class.
 
 ## Evaluation
 
