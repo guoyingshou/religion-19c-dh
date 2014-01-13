@@ -134,17 +134,21 @@ project updates each week in class. Third, in week 11, we will
 collaboratively draft **standards for evaluating projects**, based on DH
 projects funded by the National Endowment for the Humanities Office of
 Digital Humanities and created by DH shops at other universities.
-Fourth, your group will make a **formal presentation** of your work on
-the last day of class.
+Fourth, your group will make a **formal presentation** of your work
+during the final examination period.
 
 The other main work you will do is **reading and discussing** American
 religious history in the nineteenth century. In the first three weeks of
 the class, you will read Butler, Wacker, and Ballmer's survey history of
 American religion and a more detailed history of an American religious
 tradition of your choice (see below), and you will **write a review**
-(5--7 pages) comparing the two books. For each class period in weeks 4
+(6--8 pages) comparing the two books. For each class period in weeks 4
 to 14, you will **read primary sources**, which you must be prepared to
-discuss.
+discuss. By 10 a.m. before class each day, you should **e-mail the class
+list** to identify one thing you learned from the texts, and one
+question that you have about them. You can do this in no more than a
+paragraph. These e-mails will help me tailor the class to your
+interests.
 
 Because this class is collaborative and self-directed, much of the
 communication between you and your colleagues, and between you and me,
@@ -153,8 +157,16 @@ a minimum of one brief blog post per week, describing the work you've
 done on the digital project. (You can write as many posts as you like.)
 Topics can include the research you're doing, the skills you're
 learning, the decisions you're making, the connections you're drawing to
-the class readings, and the like. You will also make at least two
-comments per week on your colleagues' posts.
+the class readings, and the like.
+
+This class will be much more informal and collaborative than any
+humanities class that you have taken before. Part of this informality is
+that you can expect that we might change the assignments for the course
+as we go along. You can be certain, for example, that the contract you
+will draw up will obligate you to accomplishing certain work at certain
+times during the course, and so this work is not on the schedule below.
+You can also expect that as work on the main project proceeds add to and
+modify the readings for the course to help your work on the project.
 
 ## Evaluation
 
@@ -165,9 +177,9 @@ project.
 
   assignment                 weight
   -------------------------- --------
-  digital research project   50%
+  digital research project   40%
   presentation of project    10%
-  readings and discussions   20%
+  readings and discussions   30%
   book review                10%
   blogging                   10%
 
