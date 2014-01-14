@@ -26,7 +26,9 @@ Jan 24 (F)
 :   Spatial history
 
 :   *reading:* Richard White, "What Is Spatial History?"; Jo Guldi,
-    "What is the Spatial Turn?" and "The Spatial Turn in History"
+    "What is the Spatial Turn?" and "The Spatial Turn in History"; Tim
+    Cresswell, "Humanistic Geographies" in *Geographic Thought: A
+    Critical Introduction*
 
 Jan 28 (T)
 :   Discussion of secondary works
