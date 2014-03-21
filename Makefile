@@ -27,7 +27,7 @@ proposal.md.pdf : proposal.md
 
 # upload syllabus to website
 upload : $(SYLLABUSFILENAME)
-	scp $(SYLLABUSFILENAME) lam:public_html/downloads/docs/
+	scp $(SYLLABUSFILENAME) reclaim:www/lincolnmullen.com/files/
 
 # update the version control information
 .PHONY : vc
